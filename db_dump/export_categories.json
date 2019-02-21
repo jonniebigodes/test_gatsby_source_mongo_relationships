@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5c6d83a0f2bc0b7a5da610e3"},"key":"blahblah","name":"blah"}
+{"_id":{"$oid":"5c6d84a6f2bc0b7a5da610f8"},"key":"anotherOne","name":"anotherOne"}
+{"_id":{"$oid":"5c6d84baf2bc0b7a5da610fd"},"key":"oneMore","name":"oneMore"}
+{"_id":{"$oid":"5c6d84d2f2bc0b7a5da610ff"},"key":"categoryFour","name":"categoryFour"}
+{"_id":{"$oid":"5c6d84fbf2bc0b7a5da61105"},"key":"categoryFive","name":"categoryFive"}

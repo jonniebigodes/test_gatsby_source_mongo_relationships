@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5c6d85cff2bc0b7a5da61124"},"email":"first@first.com","password":"1234","phone":1231312,"isAdmin":true,"name":{"first":"FirstUser","last":"lastUser"}}
+{"_id":{"$oid":"5c6d85fdf2bc0b7a5da6112a"},"email":"second@first.com","password":"666666","phone":{"$numberLong":"6666666666"},"isAdmin":true,"name":{"first":"SecondUser","last":"SecondUser"}}
+{"_id":{"$oid":"5c6d863df2bc0b7a5da61132"},"email":"anotherUser@first.com","password":"666666","phone":1234,"isAdmin":false,"name":{"first":"AnotherUser","last":"AnotherUser"}}
